@@ -1,5 +1,7 @@
 <div align="center">
+<img src="/assets/banner.gif" width="100%" />
 
+<br>
 # 👋 Hey, I'm Rohit Kumar Pandit
 
 ### `CSE Student` • `Builder` • `Learner`
