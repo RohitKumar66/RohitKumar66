@@ -1,7 +1,12 @@
 <div align="center">
-<img src="/assets/banner.gif" width="100%" />
+
+<img src="YOUR_GIF_URL" width="80%" />
 
 <br>
+
+
+<div align="center">
+
 # 👋 Hey, I'm Rohit Kumar Pandit
 
 ### `CSE Student` • `Builder` • `Learner`
